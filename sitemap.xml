@@ -7,12 +7,6 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:Draft%2520of%2520&apos;新条目&apos;%2520by%2520海涛</loc>
-		<lastmod>2022-11-01</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>https://onetwo.ren/wiki/#:favicon.ico</loc>
 		<lastmod>2020-06-05</lastmod>
 		<changefreq>monthly</changefreq>
@@ -43,7 +37,7 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>https://onetwo.ren/wiki/#:新条目</loc>
+		<loc>https://onetwo.ren/wiki/#:我哦担心的赛讹误充电发送发</loc>
 		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -51,6 +45,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:没有其他的侧推科研</loc>
 		<lastmod>2022-10-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:测试成功</loc>
+		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
