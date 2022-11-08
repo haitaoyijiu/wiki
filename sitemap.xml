@@ -37,6 +37,24 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>https://onetwo.ren/wiki/#:中层提拔</loc>
+		<lastmod>2022-11-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:升职重点</loc>
+		<lastmod>2022-11-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:基层提拔</loc>
+		<lastmod>2022-11-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>https://onetwo.ren/wiki/#:我哦担心的赛讹误充电发送发</loc>
 		<lastmod>2022-11-01</lastmod>
 		<changefreq>monthly</changefreq>
@@ -63,6 +81,12 @@
 	<url>
 		<loc>https://onetwo.ren/wiki/#:这个一个</loc>
 		<lastmod>2022-11-01</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://onetwo.ren/wiki/#:首页必记引用</loc>
+		<lastmod>2022-11-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
